@@ -3,7 +3,7 @@
 # Test date: 2016-05-10 (on latest OSMC image: OSMC_TGT_rbp1_20160403.img)
 # Remember if you edit the script, set line breaks to UNIX format!
 
-echo "Starting volumio setup..."
+echo "Starting setup..."
 
 # Install dependencies
 apt-get update

@@ -1,2 +1,2 @@
-# pi-jukebox-volumio-install
-This is a setup script to setup MPD , Volumio 1.55, and Pi-Jukebox on a raspberry pi
+# i3-gaps Install for Ubuntu 18.04
+This is just a simple instruction set for installing i3-gaps with all the bells and whistles

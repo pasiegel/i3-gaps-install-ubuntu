@@ -13,7 +13,7 @@ sudo apt install libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-de
 
 gaps also needs to be installed from source so run these commands:
 ```
-cd /tmp
+cd ~
 git clone https://www.github.com/Airblader/i3 i3-gaps
 cd i3-gaps
 git checkout gaps && git pull
@@ -28,6 +28,7 @@ sudo make install
 Now i3-gaps should be installed.
 
 ## Extras
+Packages to use in many cases that can be useful at times. (Install only if you need them!)
 ```
 sudo apt-get install wget ranger mediainfo highlight tmux calcurse  newsbeuter moc qutebrowser imagemagick transmission-cli atool xcompmgr blender pinta gimp  markdown mupdf evince audacity vim-latexsuite rsync syncthing cups screenfetch scrot unzip unrar biber ntfs-3g deepin-terminal zip irssi unzip
 
